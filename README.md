@@ -3,7 +3,7 @@ Sistema de autenticação desenvolvido como parte do curso de DSM na FATEC Jacar
 Permite cadastro, login e gerenciamento de sessão de usuários via JWT e PostgreSQL.
 
 > ⚠️ Este repositório contém apenas o módulo de autenticação do projeto. 
-> O projeto completo está sendo desenvolvido em equipe no repositório [TeamStacked/PortalScrum].
+> O projeto completo está sendo desenvolvido em equipe no repositório github.com/TeamStacked/PortalScrum
 
 ## Tecnologias utilizadas
 - Node.js
